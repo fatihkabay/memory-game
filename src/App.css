@@ -25,3 +25,7 @@ button:hover {
   grid-template-columns: 1fr 1fr 1fr 1fr;
   grid-gap: 20px;
 }
+
+p {
+  margin-left: 90%;
+}
